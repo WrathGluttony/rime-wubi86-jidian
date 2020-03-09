@@ -1,5 +1,6 @@
 ---
 name: wubi86_jidian_user
+note: "预置私有词库"
 version: "2019-01-20"
 last_edit_time: "2019-02-28"
 
@@ -16,6 +17,6 @@ sort: original
 # '#'开头的只是注释，所以可以随便分类了
 # 注释只能另起一行写，不能在词条后面写
 
-
-
-
+于培宁	yfps
+卢哥	hnsk
+伟俊	wfwc

@@ -7,5 +7,6 @@ installation.yaml
 user.yaml
 sync/*
 luna_pinyin.userdb/*
-wubi86_jidian.userdb
+wubi86_jidian.userdb.txt
+wubi86_jidian.txt
 user.txt
